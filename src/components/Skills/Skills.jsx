@@ -15,7 +15,7 @@ const backend =[
 ]
 const Skills = () => {
   return (
-    <div className="container mx-auto my-52 flex flex-col justify-center" id="skills">
+    <div className="container mx-auto my-40 flex flex-col justify-center" id="skills">
       <p className="text-white text-lg text-center">The skills I have</p>
       <h1 className="text-blue-600 text-3xl text-center font-bold">Skills</h1>
       <div className="flex justify-around ">

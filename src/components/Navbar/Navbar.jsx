@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className="my-5 flex justify-around">
           <Link
             to="home"
-            activeClass="active"
+            activeClass="nav-bar-active"
             spy={true}
             smooth={true}
             offset={-900}
@@ -27,7 +27,7 @@ const Navbar = () => {
             <AiOutlineHome />
           </Link>
           <Link
-            activeClass="active"
+            activeClass="nav-bar-active"
             to="about"
             spy={true}
             smooth={true}
@@ -42,7 +42,7 @@ const Navbar = () => {
           </button> */}
           <Link
             to="skills"
-            activeClass="active"
+            activeClass="nav-bar-active"
             spy={true}
             smooth={true}
             offset={-156}
@@ -53,7 +53,7 @@ const Navbar = () => {
           </Link>
           <Link
             to="contact"
-            activeClass="active"
+            activeClass="nav-bar-active"
             spy={true}
             smooth={true}
             offset={-50}

@@ -1,6 +1,6 @@
 import React from "react";
 import { GiAchievement } from "react-icons/gi";
-import profileImage from '../../assets/images/pxfuel.jpg'
+import profileImage from "../../assets/images/pxfuel.jpg";
 const About = () => {
   return (
     <div className=" mt-20 md:mt-36" id="about">
