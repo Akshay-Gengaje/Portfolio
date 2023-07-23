@@ -5,7 +5,6 @@ import { FaHackerrank } from "react-icons/fa";
 const Home = () => {
   return (
     <div
-    
       className=" container mx-auto  text-white mt-40  text-center md:relative"
       id="home"
     >
