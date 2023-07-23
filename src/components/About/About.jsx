@@ -1,5 +1,6 @@
 import React from "react";
 import { GiAchievement } from "react-icons/gi";
+import profileImage from '../../assets/images/pxfuel.jpg'
 const About = () => {
   return (
     <div className=" mt-20 md:mt-36" id="about">
@@ -8,7 +9,7 @@ const About = () => {
       <div className="container mx-auto grid md:grid-cols-2  text-white mt-10">
         <div className="flex justify-center items-center ">
           <img
-            src="../src/assets/images/pxfuel.jpg"
+            src={profileImage}
             alt="image"
             className=" w-3/6 border-2 border-blue-300 rounded-md rotate-12 z-10 hover:-rotate-0"
           />
