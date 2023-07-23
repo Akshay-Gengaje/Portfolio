@@ -8,7 +8,7 @@ const About = () => {
       <div className="container mx-auto grid md:grid-cols-2  text-white mt-10">
         <div className="flex justify-center items-center ">
           <img
-            src="src\assets\images\pxfuel.jpg"
+            src="../src/assets/images/pxfuel.jpg"
             alt="image"
             className=" w-3/6 border-2 border-blue-300 rounded-md rotate-12 z-10 hover:-rotate-0"
           />
