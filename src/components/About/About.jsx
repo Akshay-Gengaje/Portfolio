@@ -28,7 +28,7 @@ const About = () => {
             </div>
           </div>
           <p className="font-bold text-blue-100 mt-14 text-center m-3">
-            Junior Software Developer with expertise in React JS, data
+            Software Developer with expertise in React JS, data
             visualization, and REST API integration. Committed to delivering
             seamless user experiences and contributing to innovative projects.
             Skilled in enhancing client decision-making through comprehensive
